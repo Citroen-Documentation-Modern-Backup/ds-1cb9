@@ -1,0 +1,23 @@
+{
+ "ref": "041006173020A",
+ "refDisplay": "0410 06 173020A",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "FILTRE RESERVOIR INTERIEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCK",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCK",
+   "fctId": "FCT0010"
+  }
+ ]
+}

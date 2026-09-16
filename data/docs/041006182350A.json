@@ -1,0 +1,33 @@
+{
+ "ref": "041006182350A",
+ "refDisplay": "0410 06 182350A",
+ "title": "ECRANS THERMIQUE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 11460",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3U",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3U",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3N",
+   "fctId": "FCT0011"
+  }
+ ]
+}

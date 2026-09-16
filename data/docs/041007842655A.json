@@ -1,0 +1,303 @@
+{
+ "ref": "041007842655A",
+ "refDisplay": "0410 07 842655A",
+ "title": "VITRE DE PORTE LATERALE AR COULISSANTE",
+ "nature": "",
+ "applicability": " SAUF SANS VITRE LATERALE SAUF 1 VITRE ENTREBA + 1FIX 2 COTES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBG",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBG",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBX",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBX",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3U",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3U",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ3",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ3",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBW",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBW",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCK",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCK",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FFJ",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FFJ",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKD",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKD",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKM",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKM",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBG",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBG",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBX",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBX",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F9W",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F9W",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3U",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3U",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FQ3",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FQ3",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3N",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3N",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBW",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBW",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCK",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCK",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCA",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCA",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FFJ",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FFJ",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F6S",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F6S",
+   "fctId": "FCT0329"
+  }
+ ]
+}

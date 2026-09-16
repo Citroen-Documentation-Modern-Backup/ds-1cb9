@@ -1,0 +1,303 @@
+{
+ "ref": "041007842005B",
+ "refDisplay": "0410 07 842005B",
+ "title": "RETROVISEUR EXTERIEUR",
+ "nature": "",
+ "applicability": "RETRO EXT CONDUCTEUR CDE ELECTRIQUE ET RETRO EXT RABATTABLE MANUEL ET ANIMATION DE GAMME OU RETRO EXT PASSAGER CDE ELECTRIQUE ET RETRO EXT RABATTABLE MANUEL ET ANIMATION DE GAMME",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBG",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBG",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBX",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBX",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3U",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3U",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ3",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ3",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F3N",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBW",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBW",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCK",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCK",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FFJ",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FFJ",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKD",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKD",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKE",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKM",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FKM",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBG",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBG",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBX",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBX",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F9W",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F9W",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3U",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3U",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FQ3",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FQ3",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3N",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F3N",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBW",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBW",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCK",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCK",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCA",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCA",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FFJ",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FFJ",
+   "fctId": "FCT0331"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F6S",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F6S",
+   "fctId": "FCT0331"
+  }
+ ]
+}

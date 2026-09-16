@@ -1,0 +1,23 @@
+{
+ "ref": "041006184875B",
+ "refDisplay": "0410 06 184875B",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "AVEC CHAUFFAGE COMPLEMENTAIRE DEPUIS OPR 12047",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ3",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FQ3",
+   "fctId": "FCT0011"
+  }
+ ]
+}

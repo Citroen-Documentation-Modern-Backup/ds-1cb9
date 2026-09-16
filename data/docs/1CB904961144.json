@@ -1,0 +1,24 @@
+{
+ "ref": "1CB904961144",
+ "refDisplay": "1CB9 0 496 1144",
+ "title": "SUPPORT ALTERNATEUR ET DOSEUR D’AIR",
+ "nature": "",
+ "applicability": "(O005) BERLINGO VP (B9) BERLINE FAMILIALE DIESEL TURBO DV6TED4 FAP BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0303"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FQ3",
+   "fctId": "FCT0303"
+  }
+ ]
+}

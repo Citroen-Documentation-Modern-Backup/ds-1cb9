@@ -1,0 +1,23 @@
+{
+ "ref": "041004314515B",
+ "refDisplay": "0410 04 314515B",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE DEPUIS OPR 12166",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FCA",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FCA",
+   "fctId": "FCT0016"
+  }
+ ]
+}

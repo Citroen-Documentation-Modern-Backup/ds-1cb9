@@ -1,0 +1,19 @@
+{
+ "ref": "1CB90303915",
+ "refDisplay": "1CB9 0 30 3915",
+ "title": "FAISCEAU GOULOTTE (FAP)",
+ "nature": "",
+ "applicability": "(O005) BERLINGO VP (B9) BERLINE FAMILIALE DIESEL TURBO DV6TED4 FAP BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0010"
+  }
+ ]
+}

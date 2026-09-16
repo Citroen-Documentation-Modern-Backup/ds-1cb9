@@ -1,0 +1,24 @@
+{
+ "ref": "1CB90225064",
+ "refDisplay": "1CB9 0 22 5064",
+ "title": "TUBE ALIMENTATION GROUPE CHAUFFAGE",
+ "nature": "",
+ "applicability": "(O008) BERLINGO VP (B9) BERLINE FAMILIALE INJECTION TU5JP4B BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FFJ",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F6S",
+   "fctId": "FCT0009"
+  }
+ ]
+}

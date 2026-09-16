@@ -1,0 +1,23 @@
+{
+ "ref": "041001002285A",
+ "refDisplay": "0410 01 002285A",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": " JUSQU’A DAM 13113FV OU  JUSQU’A DAM 13117FL",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0049"
+  }
+ ]
+}

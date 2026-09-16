@@ -1,0 +1,64 @@
+{
+ "ref": "1CB9099049C",
+ "refDisplay": "1CB9 0 99 049C",
+ "title": "ECRAN ACCOUSTIQUE ARRIERE MOTEUR",
+ "nature": "",
+ "applicability": "(O00P) BERLINGO VP (B9) BERLINE FAMILIALE DIESEL TURBO DV6ETED4 BVM5",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBG",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBX",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBW",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBF",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBG",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBX",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBW",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBF",
+   "fctId": "FCT0049"
+  }
+ ]
+}

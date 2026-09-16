@@ -1,0 +1,23 @@
+{
+ "ref": "041001172064A",
+ "refDisplay": "0410 01 172064A",
+ "title": "SURALIMENTATION RACCORD D’AIR",
+ "nature": "",
+ "applicability": "AVANT 2EME FENETRE 2008 DEPUIS OPR 11452 OU AVEC CHAUFFAGE COMPLEMENTAIRE DEPUIS OPR 11452",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DAF&B0F=B0F9W",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "1CB9",
+   "variantKey": "B0D=B0DK0&B0F=B0F9W",
+   "fctId": "FCT0014"
+  }
+ ]
+}

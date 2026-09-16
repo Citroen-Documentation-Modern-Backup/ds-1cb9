@@ -1,0 +1,331 @@
+{
+ "ldp": "1CB9",
+ "label": "BERLINGO (B9)",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DAF",
+     "lib": "BERLINE FAMILIALE"
+    },
+    {
+     "val": "B0DK0",
+     "lib": "SILHOUETTES MIXTES M1-N1"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FBG",
+     "lib": "1,6 HDI 75 (DV6ETED4)"
+    },
+    {
+     "val": "B0FBX",
+     "lib": "1,6 HDi 75 (DV6ETED M)"
+    },
+    {
+     "val": "B0FBM",
+     "lib": "1.6 HDI (DV6C)"
+    },
+    {
+     "val": "B0F9W",
+     "lib": "1.6 HDi 110 FAP (DV6TED4)"
+    },
+    {
+     "val": "B0F3U",
+     "lib": "1.6 HDi 75"
+    },
+    {
+     "val": "B0FQ3",
+     "lib": "1.6 HDi 90 FAP"
+    },
+    {
+     "val": "B0F3N",
+     "lib": "1.6 HDi 92 (DV6ATED4)"
+    },
+    {
+     "val": "B0FBW",
+     "lib": "1.6 HDi 92 (DV6DTED M)"
+    },
+    {
+     "val": "B0FBF",
+     "lib": "1.6 HDi 92 (DV6DTED)"
+    },
+    {
+     "val": "B0FCK",
+     "lib": "1.6 VTi 100 (EP6C B)"
+    },
+    {
+     "val": "B0FCA",
+     "lib": "1.6 VTi 16v 120"
+    },
+    {
+     "val": "B0FFJ",
+     "lib": "1.6 i 16v"
+    },
+    {
+     "val": "B0F6S",
+     "lib": "1.6 i 16v 110 (TU5JP4)"
+    },
+    {
+     "val": "B0FKD",
+     "lib": "DIESEL DV6FC FAP"
+    },
+    {
+     "val": "B0FKE",
+     "lib": "DIESEL DV6FD FAP"
+    },
+    {
+     "val": "B0FKM",
+     "lib": "DIESEL DV6FE FAP"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DAF&B0F=B0FBG",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FBG"
+   },
+   "label": "BERLINE FAMILIALE · 1,6 HDI 75 (DV6ETED4)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FBX",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FBX"
+   },
+   "label": "BERLINE FAMILIALE · 1,6 HDi 75 (DV6ETED M)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FBM"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F9W",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F9W"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 110 FAP (DV6TED4)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F3U"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FQ3",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FQ3"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 90 FAP"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F3N"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FBW"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FBF"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FCK",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FCK"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 VTi 100 (EP6C B)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FCA"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FFJ",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FFJ"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 i 16v"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0F6S"
+   },
+   "label": "BERLINE FAMILIALE · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKD",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKD"
+   },
+   "label": "BERLINE FAMILIALE · DIESEL DV6FC FAP"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKE",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKE"
+   },
+   "label": "BERLINE FAMILIALE · DIESEL DV6FD FAP"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FKM",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FKM"
+   },
+   "label": "BERLINE FAMILIALE · DIESEL DV6FE FAP"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBG",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBG"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1,6 HDI 75 (DV6ETED4)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBX",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBX"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1,6 HDi 75 (DV6ETED M)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBM"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0F9W",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0F9W"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDi 110 FAP (DV6TED4)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0F3U",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0F3U"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDi 75"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FQ3",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FQ3"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDi 90 FAP"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0F3N",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0F3N"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDi 92 (DV6ATED4)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBW",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBW"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDi 92 (DV6DTED M)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBF",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBF"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 HDi 92 (DV6DTED)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FCK",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FCK"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 VTi 100 (EP6C B)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FCA",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FCA"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 VTi 16v 120"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FFJ",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FFJ"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 i 16v"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0F6S"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.6 i 16v 110 (TU5JP4)"
+  }
+ ]
+}
